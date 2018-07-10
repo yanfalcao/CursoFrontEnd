@@ -1,0 +1,15 @@
+.elementInCenter{
+  text-align: center;
+}
+
+.planoDeFundo{
+  /* background-image: url("fundo.jpg"); */
+  background-color: #18dcff;
+}
+.fonteMaior{
+  font-size: 42px;
+}
+.letraBranca{
+
+  color: #ecf0f1;
+}
