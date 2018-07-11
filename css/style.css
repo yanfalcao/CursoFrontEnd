@@ -12,6 +12,16 @@
   background-image: url("../img/fundo.jpg");
   background-size: 1350px 100%;
   /* background-color: #18dcff; */
+  /* background-image: url('../img/fundo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  color: white; */
 }
 .fonteMaior
 {
@@ -24,6 +34,9 @@
 .letraBlack
 {
   color: #34495e;
+}
+.shadow {
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
 header .intro-text
 {
