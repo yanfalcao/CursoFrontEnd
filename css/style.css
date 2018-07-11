@@ -1,15 +1,32 @@
-.elementInCenter{
+.elementInCenter
+{
   text-align: center;
 }
-
-.planoDeFundo{
-  /* background-image: url("../img/fundo.jpg"); */
-  background-color: #18dcff;
+.img-circle
+{
+  border-radius: 50%;
 }
-.fonteMaior{
+
+.planoDeFundo
+{
+  background-image: url("../img/fundo.jpg");
+  background-size: 1350px 100%;
+  /* background-color: #18dcff; */
+}
+.fonteMaior
+{
   font-size: 42px;
 }
-.letraBranca{
-
-  color: #ecf0f1;
+.letraBranca
+{
+  color: #ffffff;
+}
+.letraBlack
+{
+  color: #34495e;
+}
+header .intro-text
+{
+  padding-top: 300px;
+  padding-bottom: 300px;
 }
